@@ -1,0 +1,4 @@
+ batch.begin();
+        font.draw(batch, "Press arrow keys to move", 10, 580);
+        batch.end();
+    }
